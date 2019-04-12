@@ -1,0 +1,25 @@
+{
+  "name": "send-whatsapp-messages-with-twilio",
+  "version": "1.0.0",
+  "description": "Send WhatApp Messages using Twilio and Node Js within 30 seconds",
+  "main": "twilioWhatsApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felistas/Twilio-WhatsApp-Node.git"
+  },
+  "keywords": [
+    "Twilio-WhatsApp-Node"
+  ],
+  "author": "Felistas Ngumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felistas/Twilio-WhatsApp-Node/issues"
+  },
+  "homepage": "https://github.com/Felistas/Twilio-WhatsApp-Node#readme",
+  "dependencies": {
+    "twilio": "^3.30.0"
+  }
+}

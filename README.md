@@ -1,5 +1,5 @@
 # Twilio-WhatsApp-NodeJs
-Send WhatsApp messages using Twilio and Node js within 30 seconds
+Send WhatsApp messages with image attachments using Twilio and Node js.
 
 ## Getting Started
 
